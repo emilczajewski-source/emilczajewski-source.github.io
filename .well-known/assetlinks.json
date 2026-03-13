@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pl.lovable.test1warsztat01",
+      "sha256_cert_fingerprints": [
+        "E9:2E:F0:07:BD:3F:EF:91:9C:21:AF:7E:8B:C0:76:10:45:FB:9E:92:5C:B1:A9:73:01:35:79:F7:2F:82:DE:06"
+      ]
+    }
+  }
+]
