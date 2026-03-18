@@ -4,6 +4,13 @@
   <meta charset="UTF-8">
   <title>Auto Log Book – Workshop Manager</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script>
+    if (location.hash.indexOf('#/invite?token=') === 0) {
+      location.replace('https://app.workshop.waw.pl/' + location.hash);
+    }
+  </script>
+
 </head>
 <body>
   <h1>Auto Log Book – Workshop Manager</h1>
